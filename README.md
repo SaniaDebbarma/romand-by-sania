@@ -26,7 +26,7 @@ Each section in the design displays:
 
 ## 📷 Preview
 
-![Romand UI Preview](./romand%20-%20by%20Sania%20Debbarma.jpeg)
+![Romand UI Preview](romand - by Sania Debbarma.png)
 
 ## 🔧 Tools Used
 
